@@ -1,0 +1,85 @@
+header{
+
+background-color: blue;
+text-align: center;
+color: white;
+height: 40px;
+}
+
+.content{
+
+overflow: hidden;
+}
+
+.left-pane{
+width: 20%;
+background-color: tomato;
+float: left;
+height: 600px;
+text-align: center;
+color: blanchedalmond;
+
+}
+
+.pre-body{
+    width: 60%;
+    background-color: green;
+    float: left;
+    height: 600px;
+
+}
+
+.pre-body1{
+height: 20%;
+background-color: yellow;
+text-align: center;
+color: black;
+
+    
+}
+
+.body-content{
+
+height: 60%;
+background-color: yellowgreen;
+text-align: center;
+color: white;
+
+
+}
+
+
+.post-body{
+
+background-color: teal;
+height: 20%;
+text-align: center;
+color: white;
+
+
+}
+
+.right-pane{
+
+        width: 20%;
+        background-color: tomato;
+        float: right;
+        height: 600px;
+        text-align: center;
+        color: white;
+        
+
+}
+span{
+
+    font-size: 30px;
+}
+footer{
+
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+
+}
